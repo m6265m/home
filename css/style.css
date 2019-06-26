@@ -661,6 +661,7 @@ margin-left:40%;
 }
 #logodiv img{
     height: 7vw;
+    width: auto;
     padding: 0 0 0 2em;
     transition: 0.5s;
 }
