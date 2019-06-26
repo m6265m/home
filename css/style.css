@@ -45,7 +45,7 @@ display: block;
   object-position: center;
     background:rgb(0,0,0);
     background: transparent\9;
-    background:rgba(0,0,0,0.3);        
+    background:rgba(0,0,0,0.3);
     z-index: 3;
 }
 .cat:hover{
@@ -543,7 +543,7 @@ margin-left:40%;
   overflow: hidden; 
 }
 .row{
-  
+
   margin-left:0px!important;
   width:100%;}
 
@@ -692,10 +692,10 @@ margin-left:40%;
     transition: 0.5s;
 }
 
-#menu li {
+/*#menu li {
     width: max-content;
 
-}
+}*/
 #hamburger{
     display: none;
 }

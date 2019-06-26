@@ -60,7 +60,10 @@
         clip-path: circle(1600px at 90% -20%);
         -webkit-clip-path: circle(1600px at 90% -20%);
     }
-
+    #menu ul{
+        display: grid;
+        place-content: center;
+    }
     #menu li {
         /* opacity: 0; */
     }
